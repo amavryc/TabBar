@@ -2,7 +2,7 @@
 //  TabBar.swift
 //  TabBar
 //
-//  Created by Admir Mavric on 2018-01-18.
+//  Created by ᴀᴍ on 2018-01-18.
 //  Copyright © 2018 codeabyte. All rights reserved.
 //
 
